@@ -1,4 +1,5 @@
 # hello-world
 test repo for setup
 
-[x] Commits are working
+- Commits are working
+- Branches are working
